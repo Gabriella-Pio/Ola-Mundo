@@ -8,6 +8,8 @@ Curso em Vídeo - Curso: GIT e GitHub - Aula: 05;
    
  1. Criação de um repositório no GitHub desktop;
  2. Integração do repositório com o VSCode;
- 3. Publicação do repositório do desktop para o github.com;
+ 3. Salvamento automático no VSCode;
+ 4. Publicação do repositório do desktop para o github.com;
+ 5. Atalhos (ctrl + A && ctrl + P && ctrl + shift + P);
 
     FIM DA DESCRIÇÃO
