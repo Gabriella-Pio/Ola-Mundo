@@ -1,10 +1,10 @@
 # Olá, Mundo | May/2024
 
-Curso em Vídeo - Curso: GIT e GitHub - Aula: 05;
+- Curso em Vídeo | Curso: GIT e GitHub - Aula: 05;
 
-- *REPOSITÓRIO 01*
+* REPOSITÓRIO 01
 
- - Conteúdo:
+_Conteúdo:_
    
  1. Criação de um repositório no GitHub desktop;
  2. Integração do repositório com o VSCode;
@@ -12,4 +12,4 @@ Curso em Vídeo - Curso: GIT e GitHub - Aula: 05;
  4. Publicação do repositório do desktop para o github.com;
  5. Atalhos (ctrl + enter && ctrl + P && ctrl + shift + P);
 
-    FIM DA DESCRIÇÃO
+> FIM DA DESCRIÇÃO
